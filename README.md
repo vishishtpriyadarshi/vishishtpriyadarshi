@@ -1,12 +1,12 @@
 # Hi there!
 
-- 🔭 I’m currently working on simulators and version control systems
-- 💡 I love innovation and new technologies
+- 🔭 I am a Software Engineer at GitHub
+- 💡 I’m currently working on simulators and version control systems
 - ⚡ Fun fact: I also love dealing with distributed systems, protocols for blockchain and developing pecuilar command line tools
 - ✨ Bonus: I immerse myself in fiction in free time
-- 📫 Mail me at [vishishtpriyadarshi867@gmail.com](mailto:vishishtpriyadarshi867@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/)
+- 📫 Mail me at [vishishtpriyadarshi867@gmail.com](mailto:vishishtpriyadarshi867@gmail.com).
 
-![](https://komarev.com/ghpvc/?username=vishishtpriyadarshi&color=brightgreen)
+[![GitHub](https://img.shields.io/badge/GitHub-%40vishishtpriyadarshi-239a3b.svg)](https://github.com/vishishtpriyadarshi)
 [![Linkedin](https://img.shields.io/badge/-vishishtpriyadarshi-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vishisht-priyadarshi-34068b179/)
 
 <a href="https://github.com/vishishtpriyadarshi/ShardEval">
