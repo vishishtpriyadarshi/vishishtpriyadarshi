@@ -1,6 +1,6 @@
 # Hi there!
 
-- 🔭 I am a Software Engineer at GitHub
+- 🔭 I am a Software Engineer at Microsoft
 - 💡 I’m currently working on simulators and version control systems
 - ⚡ Fun fact: I also love dealing with distributed systems, protocols for blockchain and developing pecuilar command line tools
 - ✨ Bonus: I immerse myself in fiction in free time
